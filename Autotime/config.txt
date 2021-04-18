@@ -1,0 +1,3 @@
+\Autotime\Отчётность\Докладн�
+C:\Users\_SKIFER_\IdeaProjects\kursach2\Autotime
+jdbc:mysql://localhost:3306/empdb?serverTimezone=Europe/Moscow&useSSL=false
